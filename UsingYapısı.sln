@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingYapısı", "UsingYapısı\UsingYapısı.csproj", "{F103E7F9-0618-4AFC-9726-038325E3B258}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverLoading", "OperatorOverLoading\OperatorOverLoading.csproj", "{340CB0CF-A695-4883-AE47-546FAEA115A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloadingTekrar", "OperatorOverloadingTekrar\OperatorOverloadingTekrar.csproj", "{0C8223C3-E660-411D-B118-8F0C38C5B265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F103E7F9-0618-4AFC-9726-038325E3B258}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F103E7F9-0618-4AFC-9726-038325E3B258}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F103E7F9-0618-4AFC-9726-038325E3B258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{340CB0CF-A695-4883-AE47-546FAEA115A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340CB0CF-A695-4883-AE47-546FAEA115A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340CB0CF-A695-4883-AE47-546FAEA115A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340CB0CF-A695-4883-AE47-546FAEA115A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8223C3-E660-411D-B118-8F0C38C5B265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8223C3-E660-411D-B118-8F0C38C5B265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8223C3-E660-411D-B118-8F0C38C5B265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8223C3-E660-411D-B118-8F0C38C5B265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
